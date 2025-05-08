@@ -51,7 +51,7 @@ namespace E1WebMVC
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Cliente}/{action=Index}/{id?}");
 
             app.Run();
         }
