@@ -17,7 +17,7 @@ Este proyecto es una aplicación web ASP.NET MVC creada con enfoque **Database F
 - Git
 
 ---
-
+### 🗄️ Restaurar base de datos > usando el script que esta en el repositorio backupSQLServer07-05-2025.sql
 ### 🛠️ Clonar el proyecto
 
 ```bash
